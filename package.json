@@ -1,0 +1,14 @@
+{
+  "name": "cv_bvonpotobsky",
+  "version": "1.0.0",
+  "description": "This is my CV made using HTML and CSS",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass --watch scss/style.scss main.css"
+  },
+  "author": "Benjamín von Potobsky <@bvonpotobsky>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.44.0"
+  }
+}
